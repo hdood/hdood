@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdood
-- 👀 I’m interested in computer science in general
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me Gmail : m.bouguerzi1234@gmail.com 
 
